@@ -1,0 +1,482 @@
+.navbar
+{
+background-color: #222222 !important;
+text-transform: uppercase;
+font-family: 'PT Sans Narrow' , Arial , sans-serif;
+font-weight: 700;
+
+
+
+
+}
+
+.navbar a
+{
+
+color: #ffffff !important;
+opacity: 0.7;
+
+
+}
+
+.navbar a:hover
+{
+
+opacity: 1;
+background-color: #111111 !important;
+
+}
+
+
+/*Header kısmı */ 
+.header
+{
+
+height: 100%;
+width: 100%;
+padding: 30px 0 30px;
+margin-top: 50px;
+background-image: url(../images/resim1.png);
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+
+
+}
+
+.header img
+{
+
+height: 100%;
+width: 450px;
+margin: 70px 0 0 40px;
+
+
+}
+
+.header h1
+ {
+
+font-size: 50px;
+font-weight: 700;
+padding-top: 30px;
+
+ }
+
+ .header h1,
+ .header p,
+ .header button
+ {
+
+
+  margin-top: 20px;
+ }
+
+
+ .header .btn
+ {
+
+  border-radius: 0;
+  margin: 40px 20px;
+ }
+
+ @media(max-width: 768px)
+ {
+  .header
+  {
+
+    padding: 30px;
+    height: 750px;
+
+  }
+  .header img
+  {
+
+
+    width: 90%;
+    height: 100%;
+    margin:  20px 0 0 20px;
+
+  }
+
+.header .btn
+{
+
+font-size: 20px;
+margin-left: 30px;
+
+
+}
+
+.header h1
+{
+
+  font-size: 20px;
+}
+.header p
+{
+ font-size: 15px;
+
+ }
+
+
+}
+
+
+/* Servis kısmmı*/
+
+.services
+{
+  padding: 80px 0 80px;
+  text-align: center;
+
+
+}
+
+.services h1,
+.services h4
+{
+
+  color: #4c4c4c;
+  margin: 20px 0 20px;
+}
+
+.services p
+{
+
+color: #737373;
+font-size: 14px;
+padding-bottom: 40px;
+
+
+}
+
+.services i
+{
+
+height: 80px;
+width: 80px;
+font-size: 30px; 
+padding: 25px 20px ;
+border-radius: 50%;
+background-color: #6699CC;
+color: #fff;
+
+}
+
+@media(max-width: 100%)
+{
+
+.services
+{
+
+
+  padding: 30px;
+}
+
+
+}
+
+
+/* FİYAT LİSTESİ*/ 
+
+.pricing
+{
+
+  padding: 50px 0 80px;
+  text-align: center;
+  background-color: #3399FF;
+}
+
+.pricing h2,
+.pricing p
+{
+
+color: #fff;
+
+
+}
+
+.pricing p 
+{
+
+  padding-bottom: 40px;
+
+}
+
+.pricing .packages
+{
+
+  padding: 30px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  border-radius: 5px;
+  margin-top: 30px;
+
+}
+
+.packages li 
+{
+
+  display: block;
+  padding: 5px;
+
+}
+
+.packages h4,
+.packages h1,
+.packages b
+{
+
+color: #4c4c4c;
+
+
+}
+
+.packages p,
+.packages li
+{
+
+  color: #737373;
+
+}
+
+.packages button
+{
+  margin-top: 10px;
+}
+
+
+@media(max-width: 768px)
+{
+.pricing
+{
+
+  padding: 30px;
+
+}
+
+.packages
+{
+  width: 80%;
+  margin-left: 25px;
+}
+
+}
+
+/* Team */ 
+
+.team
+{
+
+  padding: 50px 0 80px;
+  text-align: center;
+}
+
+.team b,
+.team h2,
+.team h4
+{
+
+margin: 20px 0 20px;
+color: #4c4c4c;
+
+}
+
+.team p
+{
+
+color: #737373;
+
+}
+
+.team img
+{
+
+  height: 150px;
+  width: 150px;
+  margin-top: 80px;
+
+}
+
+.team i
+{
+
+height: 30px;
+width: 30px;
+padding: 5px;
+font-size: 17px;
+border-radius: 58;
+background-color: #a8db5e;
+color: #fff;
+
+}
+
+
+.team a:hover i
+{
+
+  background-color: #789963;
+}
+
+/* Client Kısmı */ 
+
+.clients
+{
+
+padding: 50px 0 80px;
+background-color: #3399ff;
+text-align: center;
+color: #fff;
+
+
+}
+
+.client h2
+{
+
+  color: #5e5e5e;
+}
+
+.client p
+{
+
+  padding-bottom: 40px;
+}
+
+.client img
+{
+
+  height: 150px;
+  width: 150px;
+  margin-top: 80px;
+opacity: 8.6;
+cursor: pointer;
+
+transition: all 500ms ease-in-out;
+
+} 
+
+.client li:hover img
+{
+
+  opacity: 1;
+}
+
+/*İletişim Kısmı */ 
+
+.contact
+{
+
+
+padding: 50px 0 80px;
+text-align: center;
+
+}
+
+.contact p
+{
+
+
+padding-bottom: 80px;
+color: #737373;
+
+
+}
+
+.contact h2
+{
+
+color: #4c4c4c;
+margin: 20px 0 20px;
+
+}
+
+.contact .input-group
+{
+
+margin-bottom: 25px;
+
+
+}
+
+.contact .form-control
+{
+
+border-radius: 0 !important;
+
+
+}
+
+.contact span
+{
+
+  border-radius: 0 !important;
+}
+
+.contact .btn
+{
+
+  border-radius: 0;
+  width: 100%;
+  font-size: 15px;
+  background-color: #f08080;
+  color: #fff;
+}
+
+.contact.btn:hover
+{
+background-color: #a85959;
+color: #fff !important;
+
+
+}
+
+/*Footer Başlangıç */ 
+
+.footer
+{
+
+
+padding: 30px;
+color: #cccccc;
+background-color: #222222;
+
+
+}
+
+.footer .social
+{
+
+font-size: 20px;
+height: 30px;
+width: 30px;
+text-align: center;
+padding: 5px;
+border:1px solid #cccccc;
+margin-bottom: 10px;
+margin-right: 5px;
+
+
+
+}
+
+.footer input
+{
+
+height: 40px;
+width: 160px;
+padding: 5px;
+border: none;
+background-color: #cccccc;
+color: #000;
+}
+
+.footer btn
+{
+padding: 10px 5px 10px;
+margin:-3px 0 0 5px;
+
+}
+
