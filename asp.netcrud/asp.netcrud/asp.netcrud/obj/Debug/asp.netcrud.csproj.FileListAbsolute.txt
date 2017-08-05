@@ -1,0 +1,12 @@
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\crud\project\asp.netcrud\asp.netcrud\bin\asp.netcrud.dll.config
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\crud\project\asp.netcrud\asp.netcrud\bin\asp.netcrud.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\crud\project\asp.netcrud\asp.netcrud\bin\asp.netcrud.pdb
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\crud\project\asp.netcrud\asp.netcrud\obj\Debug\asp.netcrud.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\crud\project\asp.netcrud\asp.netcrud\obj\Debug\asp.netcrud.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\crud\project\asp.netcrud\asp.netcrud\obj\Debug\asp.netcrud.pdb
+C:\Users\Emsal\Desktop\asp.netcrud\asp.netcrud\asp.netcrud\bin\asp.netcrud.dll.config
+C:\Users\Emsal\Desktop\asp.netcrud\asp.netcrud\asp.netcrud\bin\asp.netcrud.dll
+C:\Users\Emsal\Desktop\asp.netcrud\asp.netcrud\asp.netcrud\bin\asp.netcrud.pdb
+C:\Users\Emsal\Desktop\asp.netcrud\asp.netcrud\asp.netcrud\obj\Debug\asp.netcrud.dll
+C:\Users\Emsal\Desktop\asp.netcrud\asp.netcrud\asp.netcrud\obj\Debug\asp.netcrud.pdb
+C:\Users\Emsal\Desktop\asp.netcrud\asp.netcrud\asp.netcrud\obj\Debug\asp.netcrud.csprojResolveAssemblyReference.cache
